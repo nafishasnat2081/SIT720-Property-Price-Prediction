@@ -1,0 +1,140 @@
+property_id,suburb,address,property_type,sale_date,sale_price_AUD,bedrooms,bathrooms,car_spaces,building_size_sqm,land_size_sqm,real_estate_agency
+S1,Surry Hills,310/47-53 Cooper Street,Apartment,17-Sep-26,1600000,3,2,1,144,NA,NA
+S2,Surry Hills,497 Crown Street,House,4-Sep-26,2355000,3,1,1,101,NA,BresicWhitney
+S3,Surry Hills,203/10-14 Cooper Street,Apartment,3-Sep-26,1575000,2,2,1,100,NA,Laing Real Estate
+S4,Surry Hills,27/74-80 Reservoir Street,Apartment,4-Sep-26,1235000,2,1,1,NA,NA,NA 
+S5,Surry Hills,140 Devonshire Street,House,3-Sep-26,3800000,4,4,1,132.8,NA,Ray White
+S6,Surry Hills,11/3 Goulburn Lane,Apartment,2-Sep-26,870000,1,1,0,49,NA,Sydney Sotheby's International Realty
+S7,Surry Hills,12/11-21 Flinders Street,Apartment,31-Aug-26,1015000,1,1,1,86,NA,NA
+S8,Surry Hills,25 Phelps Street,House,29-Aug-26,1730000,2,1,0,38,NA,Ray White
+S9,Surry Hills,3 Raper Street,House,28-Aug-26,2900000,3,1,0,101,NA,NA
+S10,Surry Hills,38/168 Goulburn Street,Apartment,28-Aug-26,850000,1,1,1,81,NA,Belle Property
+S11,Surry Hills,571 Bourke Street,House,27-Aug-26,2950000,3,1,1,157,NA,NA
+S12,Surry Hills,803A/133 Goulburn Street,Apartment,22-Aug-26,1615000,2,2,1,NA,NA,Belle Property
+S13,Surry Hills,38/1-7 Pelican Street,Apartment,22-Aug-26,1075000,2,2,1,100,NA,Belle Property
+S14,Surry Hills,29/450 Elizabeth Street,Apartment,21-Aug-26,790000,1,1,0,91,NA,Belle Property
+S15,Surry Hills,406/188 Chalmers Street,Apartment,19-Aug-26,1925000,2,2,1,100,NA,BresicWhitney
+S16,Surry Hills,41/82-92 Cooper Street,Apartment,14-Aug-26,675000,1,1,1,NA,NA,NA
+S17,Surry Hills,505/23 Pelican Street,Apartment,13-Aug-26,1035000,1,1,1,62,NA,AYRE
+S18,Surry Hills,107/17 Kippax Street,Studio,12-Aug-26,750000,1,1,0,48,NA,NA
+S19,Surry Hills,8/70 Marlborough Street,Apartment,11-Aug-26,1650000,3,2,1,136,NA,Belle Property
+S20,Surry Hills,6/2 Goodlet Street,Apartment,6-Aug-26,622500,1,1,1,NA,NA,NA
+S21,Surry Hills,57/1-7 Pelican Street,Apartment,4-Aug-26,710000,1,1,0,60,NA,NA
+S22,Surry Hills,11 Belyoit Street,House,30-Jul-26,1500000,3,1,0,NA,NA,Travis Gray
+S23,Surry Hills,707/242 Elizabeth Street,Unit,29-Jul-26,621050,1,1,0,NA,NA,NA
+S24,Surry Hills,524 Crown Street,Terrace,25-Jul-26,3530000,4,3,0,NA,NA,Sydneys Sotheby's
+S25,Surry Hills,206 Devonshire Street,House,25-Jul-26,1600000,3,1,0,123,NA,Spencer & Servi
+S26,Surry Hills,71/679-695 Bourke Street,Apartment,24-Jul-26,780000,1,1,0,NA,NA,Ray White
+S27,Surry Hills,4/329-333 Crown Street,Apartment,23-Jul-26,1300000,2,1,1,104,NA,NA
+S28,Surry Hills,30/38 Chalmers Street,Apartment,20-Jul-26,1055000,2,2,1,97,NA,Belle Property
+S29,Surry Hills,310/174-182 Goulburn Street,Apartment,17-Jul-26,885000,1,1,1,NA,NA,NA
+S30,Surry Hills,17/6 Poplar Street,Apartment,17-Jul-26,740000,1,1,0,73,NA,Century 21
+S31,Surry Hills,60/2 Goodlet Street,Apartment,15-Jul-26,835000,2,1,0,NA,NA,NA
+S32,Surry Hills,61/5-13 Hutchinson Street,Apartment,1-Jul-26,1710000,2,2,1,NA,NA,BresicWhitney
+S33,Surry Hills,305/8 Cooper Street,Apartment,1-Jul-26,775000,1,1,0,63,NA,NA
+S34,Surry Hills,53 Marshall Street,House,27-Jun-26,2310000,2,1,0,68,NA,Ray White
+S35,Surry Hills,1514/20 Pelican Street,Apartment,26-Jun-26,2965000,3,2,2,143,NA,NA
+S36,Surry Hills,31/9-41 Rainford Street,Apartment,26-Jun-26,1310000,2,2,1,101,NA,Belle Property
+S37,Surry Hills,105/425 Bourke Street,Apartment,24-Jun-26,850000,1,1,0,62,NA,NA
+S38,Surry Hills,905/133 Goulburn Street,Apartment,22-Jun-26,1400000,2,1,1,NA,NA,BresicWhitney
+S39,Surry Hills,26/360 Bourke Street,Apartment,17-Jun-26,805000,1,1,0,54,NA,NA
+S40,Surry Hills,5 Rainford Street,House,13-Jun-26,2725000,3,1,0,NA,NA,BresicWhitney
+S41,Surry Hills,5 Samuel Street,House,12-Jun-26,1572000,2,1,0,NA,NA,NA
+S42,Surry Hills,7/5-13 Hutchinson Street,Apartment,12-Jun-26,1325000,2,1,1,104,NA,McGrath
+S43,Surry Hills,5.39/517 Elizabeth Street,Apartment,11-Jun-26,800000,1,1,0,49,NA,NA
+S44,Surry Hills,42/56-60 Foster Street,Apartment,6-Jun-26,730000,1,1,0,48,NA,BresicWhitney
+P1,Wentworthville,11 Lower Mount Street,House,18-Sep-26,1650000,4,2,2,208,NA,TA
+P2,South Wentworthville,1/29 Chelmsford Road,Duplex/semi-detached,18-Sep-26,1263000,6,4,2,344.2,NA,Laing+Simmons
+P3,Merrylands,2 Eric Avenue,House,18-Sep-26,1050000,4,2,3,553,NA,NA
+P4,Wentworthville,272b Great Western Highway,Duplex/semi-detached,18-Sep-26,985000,3,2,1,NA,NA,McGrath
+P5,Lidcombe,25/17-25 Kees Road,Apartment,18-Sep-26,745000,3,2,1,NA,NA,NA
+P6,North Parramatta,16/45-47 Brickfield Street,Apartment,18-Sep-26,710000,2,2,1,NA,NA,Stone
+P7,Westmead,901/91D Bridge Road,Apartment,18-Sep-26,675000,2,2,2,NA,NA,Gilmore Property
+P8,Granville,10/8-10 Victoria Street,Apartment,18-Sep-26,670000,3,2,2,144,NA,Starr Partners
+P9,Westmead,2/59-61 Good Street,Unit,18-Sep-26,620000,2,2,1,NA,NA,NA
+P10,Wentworth Point,303/2 Footbridge Boulevard,Apartment,18-Sep-26,616000,1,1,1,NA,NA,Chidiac
+P11,Wentworth Point,763/3 Baywater Drive,Apartment,18-Sep-26,612000,1,1,1,92,NA,NA
+P12,Ermington,6 Flinders Street,Duplex/semi-detached,17-Sep-26,1685000,4,2,1,324.7,NA,Belle Property
+P13,Mays Hill,179 Great Western Highway,House,17-Sep-26,1420000,3,2,3,440,NA,NA
+P14,Toongabbie,3 Namoi Place,House,17-Sep-26,1120000,3,1,2,619,NA,McGrath
+P15,Auburn,2/14 Kennington Oval,Townhouse,17-Sep-26,880000,3,2,1,151,NA,Phillip Daidone
+P16,Greystanes,4/1 Beresford Road,Villa,17-Sep-26,864000,3,2,2,197,NA,Riverbank
+P17,North Parramatta,9/40-44 Brickfield Street,Apartment,17-Sep-26,750000,2,1,0,NA,NA,Stone
+P18,Wentworth Point,2607/46 Savona Drive,Apartment,17-Sep-26,645000,1,1,1,NA,NA,Laing+Simmons
+P19,Merrylands,145/280 Merrylands Road,Unit,17-Sep-26,520000,2,2,1,NA,NA,NA
+P20,Auburn,31/3-11 Normanby Road,Unit,17-Sep-26,515000,2,1,1,NA,NA,Starr Partners
+P21,Guildford,1/2 Mountford Avenue,Unit,17-Sep-26,455000,2,1,1,NA,NA,LJ Hooker
+P22,Guildford,14/67-71 Bangor Street,Unit,17-Sep-26,360000,2,1,1,99,NA,John B Grant
+P23,Telopea,29A Robert Street,Duplex/semi-detached,16-Sep-26,1700888,5,3,2,454.6,NA,Uniland
+P24,Parramatta,4/44-50 Thomas Street,Townhouse,16-Sep-26,720000,2,1,1,128,NA,Azzi & Co
+P25,Granville,14/35 Enid Avenue,Unit,16-Sep-26,690000,3,2,1,NA,NA,LJ Hooker
+P26,Parramatta,23/15-45 Macquarie Street,Apartment,16-Sep-26,640000,2,2,1,97,NA,Ray White
+P27,Parramatta,64/180 George Street,Apartment,16-Sep-26,600000,2,1,0,NA,NA,Stone
+P28,Parramatta,1/3 Stewart Street,Unit,16-Sep-26,570000,2,2,1,NA,NA,NA
+P29,Merrylands,5/22-26 Newman Street,Unit,16-Sep-26,435000,2,1,1,87,NA,LJ Hooker
+P30,Dundas Valley,7/4-10 Quarry Road,Villa,15-Sep-26,1200000,3,1,2,NA,NA,NA
+P31,Telopea,11/17 Robert Street,Townhouse,15-Sep-26,856000,2,1,1,NA,NA,Showcase
+P32,Lidcombe,507/2 Kells Road,Apartment,15-Sep-26,820000,2,2,1,NA,NA,NA
+P33,Auburn,14/19 Dartbrook Road,Apartment,15-Sep-26,585000,2,2,1,96,NA,Multi Dynamic
+P34,Westmead,4/7-9 Queens Road,Apartment,15-Sep-26,512000,2,1,1,NA,NA,Nirvana DKB
+P35,Granville,13/7 Junction Street,Apartment,15-Sep-26,500000,2,1,1,NA,NA,NA
+P36,Northmead,9/20 Briens Road,Apartment,15-Sep-26,500000,2,2,1,NA,NA,Phillip Daidone
+P37,Auburn,74 Park Road,House,14-Sep-26,1700000,6,2,1,613,NA,Stone
+P38,Northmead,23/18-24 Murray Street,Apartment,14-Sep-26,740000,2,2,2,NA,NA,Laing+Simmons
+P39,Merrylands,604/228 Pitt Street,Unit,14-Sep-26,680000,2,2,1,NA,NA,NA
+P40,Sydney Olympic Park,505/9 Australia Avenue,Apartment,14-Sep-26,610000,1,1,1,NA,NA,Ray White
+P41,Parramatta,610/36-46 Cowper Street,Apartment,14-Sep-26,575000,2,2,1,113,NA,NA
+P42,Westmead,35 Austral Avenue,House,12-Sep-26,2060000,5,4,2,402,NA,McGrath
+P43,North Rocks,10 Plymouth Avenue,House,12-Sep-26,1975000,4,2,3,733.5,NA,NA
+P44,Rydalmere,30 Primrose Avenue,House,12-Sep-26,1800000,3,1,3,651.3,NA,Belle Property
+P45,North Parramatta,38 Jeffery Avenue,House,12-Sep-26,1725000,4,3,1,NA,NA,NA
+P46,Chester Hill,182 Virgil Avenue,House,12-Sep-26,1410000,3,1,1,607,NA,Harcourts
+P47,Regents Park,65 Amy Street,House,12-Sep-26,1037777,2,1,3,490.4,NA,NA
+P48,Girraween,8/3-5 Tungarra Road,Villa,12-Sep-26,825000,2,2,1,NA,NA,NA
+P49,Merrylands,713/5 Gladstone Street,Apartment,12-Sep-26,795000,3,2,2,150,NA,A-Class Estate
+C1,Campbelltown,1/15 Bairin Street,House,16-Sep-26,775000,3,1,2,NA,NA,NA
+C2,Campbelltown,8/38-42 Chamberlain Street,Apartment,16-Sep-26,515000,1,1,1,88,NA,Professionals
+C3,Campbelltown,5/167 Waminda Avenue,House,14-Sep-26,510000,2,1,1,NA,NA,NA
+C4,Campbelltown,133 Dumaresq Street,House,29-Aug-26,951000,3,1,1,701.9332.4,NA,Stone
+C5,Campbelltown,5B Eddington Road,Duplex/semi-detached,29-Aug-26,1030000,4,2,1,669,NA,One Agency
+C6,Campbelltown,61 Macquarie Avenue,House,29-Aug-26,970500,4,2,2,NA,NA,Ray White
+C7,Campbelltown,66/17 Warby Street,Unit,29-Aug-26,522000,2,1,1,NA,NA,LJ Hooker
+C8,Campbelltown,35/17 Warby Street,Apartment,29-Aug-26,515000,2,1,1,NA,NA,Ausrealty
+C9,Campbelltown,207/30-34 Chamberlain Street,Apartment,29-Aug-26,612000,2,2,2,201,NA,NA
+C10,Campbelltown,8/30 Broughton Street,Townhouse,29-Aug-26,637595,2,1,1,NA ,NA,One Agency
+C11,Campbelltown,5/32 Broughton Street,House,17-Aug-26,620000,3,1,1,277,NA,LJ Hooker
+C12,Campbelltown,42 Hildcote Road,Terrace,17-Aug-26,1150000,4,3,2,NA,NA,Stone
+C13,Campbelltown,11/39 Chamberlain Street,Apartment,17-Aug-26,610000,2,2,1,NA,NA,NA
+C14,Campbelltown,14B Ehrlich Street,House,12-Aug-26,735000,2,2,1,NA,NA,Stone
+C15,Campbelltown,13/105 Broughton Street,Unit,12-Aug-26,560000,3,1,1,645,NA,LJ Hooker
+C16,Campbelltown,12 Valinda Crescent,House,12-Aug-26,950000,3,1,1,142,NA,RandW
+C17,Campbelltown,34/12-20 Tyler Street,Unit,4-Aug-26,715000,3,2,2,NA,NA,Ray White
+C18,Campbelltown,10/1-3 Parc Guell Drive,Apartment,29-Jul-26,817500,3,2,1,734,NA,NA
+C19,Campbelltown,46 & 46A Farnsworth Avenue,House,29-Jul-26,1185000,5,2,2,177,NA,Multi Dynamic
+C20,Campbelltown,88 Goldsmith Avenue,Duplex/semi-detached,29-Jul-26,890000,3,2,1,37,NA,NA
+C21,Campbelltown,6/105 Broughton Street,House,29-Jul-26,575000,3,1,1,123,NA,Ray White
+C22,Campbelltown,2/19 Chamberlain Street,Unit,29-Jul-26,363000,2,1,1,554,NA,Stone
+C23,Campbelltown,40 Waminda Avenue,House,23-Jul-26,930000,4,1,1,758,NA,NA
+C24,Campbelltown,31 Grandview Drive,House,23-Jul-26,820000,2,2,NA,NA,NA,Luke Eagles Realty
+C25,Campbelltown,11/40 Parkside Crescent,Unit,23-Jul-26,540000,1,1,1,368,NA,NA
+C26,Campbelltown,149A Dumaresq Street,House,23-Jul-26,1195000,6,3,1,639,NA,NA
+C27,Campbelltown,198 Broughton Street,House,23-Jul-26,1160555,6,2,2,NA,NA,MI Property Consultants
+C28,Campbelltown,1102/8 Dumaresq Street,Apartment,14-Jul-26,567000,1,1,1,66,NA,NA
+C29,Campbelltown,2/9 Reddall Street,Unit,14-Jul-26,469000,2,1,1,NA,NA,Ausrealty
+C30,Campbelltown,48 Gilchrist Drive,House,14-Jul-26,965000,3,2,2,510.9,NA,NA
+C31,Campbelltown,28 & 28A Westview Street,House,8-Jul-26,1750000,7,4,2,NA,NA,Ray White
+C32,Campbelltown,4/40 Parkside Crescent,Apartment,8-Jul-26,772500,2,2,1,NaA,NA,NA
+C33,Campbelltown,3/19 Stewart Street,Townhouse,6-Jul-26,730000,2,1,1,281,NA,Stone
+C34,Campbelltown,157/3-17 Queen Street,Apartment,4-Jul-26,415000,1,1,1,NA,NA,NA
+C35,Campbelltown,29/3-9 Warby Street,Unit,1-Jul-26,547000,2,2,1,109,NA,Raine & Horne
+C36,Campbelltown,208/38-42 Chamberlain Street,Apartment,28-Jun-26,590000,2,2,1,79,NA,Raine & Horne
+C37,Campbelltown,205/32 Chamberlain Street,Apartment,23-Jun-26,590000,2,2,2,NA,NA,TCBHQ
+C38,Campbelltown,61 Broughton Street,House,19-Jun-26,1600000,3,1,1,120,NA,Urban Real Estate
+C39,Campbelltown,9 Yennora Street,House,19-Jun-26,885000,3,1,1,551,NA,Stone
+C40,Campbelltown,24 Poulton Terrace,House,16-Jun-26,1170000,4,2,2,415,NA,NA
+C41,Campbelltown,5 Dan Street,House,16-Jun-26,915000,3,1,1,567,NA,Stone
+C42,Campbelltown,23 Allman Street,House,13-Jun-26,1220000,3,1,1,815,NA,NA
+C43,Campbelltown,114/30-36 Warby Street,Unit,10-Jun-26,535000,1,1,1,97,NA,Ray White
+C44,Campbelltown,132 Waminda Avenue,House,9-Jun-26,870000,2,1,2,606,NA,NA
+C45,Campbelltown,3/11 Barwon Place,Villa,9-Jun-26,690000,2,1,1,NA,NA,Ray White
+C46,Campbelltown,32 Oxley Street,House,5-Jun-26,1195000,4,2,1,486,NA,NA
